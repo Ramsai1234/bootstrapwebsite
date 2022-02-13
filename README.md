@@ -35,6 +35,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ### Home Page:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -96,7 +97,9 @@ Publish the website in the given URL.
     </div>
 </body>
 </html>
+```
 ## Gallary page:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -154,8 +157,10 @@ Publish the website in the given URL.
     </div>
 </body>
 </html>
+```
 
 ## About as page:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -257,6 +262,7 @@ the BPR&D so that problems relating to prisons and implementation of deemed pris
     </div>
 </body>
 </html>
+```
 ## output:
 ![github logo](saa2.png)
 ![github logo](saa1.png)
